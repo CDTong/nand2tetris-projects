@@ -1,1 +1,1 @@
-![Image text](https://github.com/CDTong/nand2tertris-projects/blob/master/image/sand.png)
+![Image text](https://raw.githubusercontent.com/CDTong/nand2tertris-projects/master/image/sand.png)
