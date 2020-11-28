@@ -1,0 +1,1 @@
+![Image text](https://github.com/CDTong/nand2tertris-projects/blob/master/image/sand.png)
