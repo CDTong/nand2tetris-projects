@@ -21,6 +21,7 @@ CHIP PC {
     Mux16(a=o1,b=in,sel=load,out=o2);
     Mux16(a=o2,b=false,sel=reset,out=o3);
     Register(in=o3,load=true,out=preout,out=out);
+    
     Inc16(in=preout,out=addout);
 
 }
